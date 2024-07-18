@@ -134,7 +134,7 @@ skills:
       - name: Cricket
         description: ""
         percent: 90
-        icon: person-simple-walk
+        icon: simple-walk
       - name: Music
         description: ""
         percent: 100
@@ -147,10 +147,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -186,4 +184,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I am Divyansh Tripathi, Master's Student at IISER Bhopal. Currently majoring in Physics and interested in Astrophysics, Machine Learning and Deep Learning.
+I am interested in the study of Compact Object formation, evolution and accretion physics. I am also interested in MHD and Code Developments for solving astrophysical problems.
+Some part of also wanders in the relam of ML-DL and there I am interested in techniques of the domain that can be useful for astrophysics.
