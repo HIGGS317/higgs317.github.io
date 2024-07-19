@@ -50,9 +50,12 @@ profiles:
       # url: https://orcid.org/
 
 interests:
+  - Theoretical High Energy Astrophysi
   - Compact Object Astrophysics
+  - Gravitational Wave Astronomy
   - Stellar Evolution
-  - MHD & Code Development
+  - MHD and Numerical Methods
+  -
   - ML-DL applications to Astrophysics
 
 education:
@@ -68,6 +71,7 @@ education:
   - area: BS-MS in Physics
     institution: IISER Bhopal
     date_start: 2020-12-21
+    Major: Physics
     # date_end:
     # summary: |
     # Current GPA: 3.8/4.0
@@ -113,43 +117,43 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ""
-        percent: 100
-        icon: language-python-svgrepo-com
-      - name: ML-DL
-        description: ""
-        percent: 70
-        icon: machine-learning-02-svgrepo-com
-      - name: Fortran
-        description: ""
-        percent: 60
-        icon: fortran-svgrepo-com
-
-  - name: Astro-Codes
-    items:
-      - name: Modules of Experiements in Stellar Astrophysics (MESA)
-        description: "Fortran 90 Code to study evolution of Single and Binary Stars"
-
-      - name: Pluto
-        description: "A MHD Code for Astrophysics used to study fluids and plasmas"
-
-  - name: Libraries and Tools Used
-    items:
-      - name: Tensorflow
-      - name: Astropy
-      - name: Sextractor
-      - name: Psfex
-      - name: Pandas
-
-languages:
-  - name: English
-    percent: 100
-  - name: Hindi
-    percent: 100
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ""
+#         percent: 100
+#         icon: language-python-svgrepo-com
+#       - name: ML-DL
+#         description: ""
+#         percent: 70
+#         icon: machine-learning-02-svgrepo-com
+#       - name: Fortran
+#         description: ""
+#         percent: 60
+#         icon: fortran-svgrepo-com
+#
+#   - name: Astro-Codes
+#     items:
+#       - name: Modules of Experiements in Stellar Astrophysics (MESA)
+#         description: "Fortran 90 Code to study evolution of Single and Binary Stars"
+#
+#       - name: Pluto
+#         description: "A MHD Code for Astrophysics used to study fluids and plasmas"
+#
+#   - name: Libraries and Tools Used
+#     items:
+#       - name: Tensorflow
+#       - name: Astropy
+#       - name: Sextractor
+#       - name: Psfex
+#       - name: Pandas
+#
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Hindi
+#     percent: 100
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -187,3 +191,6 @@ languages:
 Hello, I am Divyansh Tripathi, Master's Student at IISER Bhopal. Currently majoring in Physics and interested in Astrophysics, Machine Learning and Deep Learning.
 I am interested in the study of Compact Object formation, evolution and accretion physics. I am also interested in MHD and Code Developments for solving astrophysical problems.
 Some part of also wanders in the relam of ML-DL and there I am interested in techniques of the domain that can be useful for astrophysics.
+
+Currently looking for graduate positions.
+Please reach out at ~ divyansh20@iiserb.ac.in ~ if you have any research positions or you feel I can contribute to your projects.
