@@ -55,7 +55,6 @@ interests:
   - Gravitational Wave Astronomy
   - Stellar Evolution
   - MHD and Numerical Methods
-  -
   - ML-DL applications to Astrophysics
 
 education:
@@ -193,4 +192,4 @@ I am interested in the study of Compact Object formation, evolution and accretio
 Some part of also wanders in the relam of ML-DL and there I am interested in techniques of the domain that can be useful for astrophysics.
 
 Currently looking for graduate positions.
-Please reach out at ~ divyansh20@iiserb.ac.in ~ if you have any research positions or you feel I can contribute to your projects.
+Please reach out at ~divyansh20@iiserb.ac.in~ if you have any research positions or you feel I can contribute to your projects.
