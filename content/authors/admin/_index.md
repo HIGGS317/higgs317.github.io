@@ -191,5 +191,5 @@ Hello, I am Divyansh Tripathi, Master's Student at IISER Bhopal. Currently major
 I am interested in the study of Compact Object formation, evolution and accretion physics. I am also interested in MHD and Code Developments for solving astrophysical problems.
 Some part of also wanders in the relam of ML-DL and there I am interested in techniques of the domain that can be useful for astrophysics.
 
-Currently looking for graduate positions.
+Currently searching for graduate positions.
 Please reach out at ~divyansh20@iiserb.ac.in~ if you have any research positions or you feel I can contribute to your projects.
