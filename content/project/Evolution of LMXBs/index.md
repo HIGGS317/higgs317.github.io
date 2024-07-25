@@ -1,8 +1,8 @@
 ---
 title: Evolution of LMXBs
-date: 2022-12-1
-status: Ongoing
-external_link:
+date: 2022-12-01
+#status: Ongoing
+#external_link:
 tags:
   - LMXBs
   - Pulsars
