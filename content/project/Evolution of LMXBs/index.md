@@ -1,6 +1,6 @@
 ---
 title: Evolution of LMXBs
-date: 2022-12-1 - Present
+date: 2022-12-1
 status: Ongoing
 external_link:
 tags:
