@@ -36,7 +36,7 @@ featured: false
 links:
   - name: Custom Link
     url: https://openreview.net/forum?id=HzEefCle2c
-url_pdf: "https://openreview.net/forum?id=HzEefCle2c"
+url_pdf: "https://openreview.net/pdf?id=HzEefCle2c"
 url_code: ""
 url_dataset: ""
 url_poster: ""
