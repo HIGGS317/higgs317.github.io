@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: 10 rem"
+  spacing: "5rem"
 
 # Page sections
 sections:
@@ -13,10 +13,11 @@ sections:
     content:
       title: Research Projects
       text: Some of the research projects I have done over the years to gain experience and expertise in astrophysics.
-    folders:
-      - project
+      filters:
+        folders:
+          - project
     design:
       view: article-grid
       fill_image: false
-      columns: 5
+      columns: 3
 ---
