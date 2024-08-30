@@ -11,10 +11,13 @@ tags:
 ---
 
 This project was done as part of Summer Student Program at NCTS-TCA, Taiwan under the supervision of Dr.Hsien Shang and Dr.Somdeb Bhattacharya.
-In this project, I have used a MHD code pluto to get hands on experience of public numerical codes used in astrophysics. I explored the numerical Hydrodynaimcs
+In this project, I have used a HD-MHD code pluto to get hands on experience of public numerical codes used in astrophysics. I explored the numerical Hydrodynaimcs
 module in pluto and how higher order schemes can be used, how well they can approximate known solution.
-I explored schemes like WENO3,WENOZ and MP5 which are class of third order and fifth order accurate schemes.
 
 ---
+In the project I  explored Conservative Finite Difference schemes like WENO3,WENOZ and MP5 which are class of third order and fifth order accurate schemes and use them on various test
+problems like Sod Shock Tube, Shu-Oscher Shock Tube, Double Mach Reflection and the Rayliegh-Taylor Instability.
+
+
 
 <!--more-->
