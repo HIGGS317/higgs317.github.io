@@ -50,7 +50,7 @@ profiles:
       # url: https://orcid.org/
 
 interests:
-  - Theoretical High Energy Astrophysi
+  - Theoretical High Energy Astrophysics
   - Compact Object Astrophysics
   - Gravitational Wave Astronomy
   - Stellar Evolution
