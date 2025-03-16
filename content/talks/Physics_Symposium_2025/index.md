@@ -1,8 +1,8 @@
 ---
-title: Poster Presentation
+title: Kilonova Lightcurves & Fitting Formula
 summary: Kilonova Lightcurves & Fitting Formula
 date: 2025-03-04
-type: docs
+# type: docs
 math: false
 tags:
   - Poster
