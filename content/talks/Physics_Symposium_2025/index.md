@@ -11,9 +11,7 @@ image:
   caption: "Poster"
 backlinks: false
 
-links:
-  text: Poster
-  url: uploads/Physics_Symposium_2025.pdf
+url_pdf: "Physics_Symposium_2025.pdf"
 ---
 
 This is the poster presentation given at the inhouse Physics Department Symposium-2025 at IISER Bhopal.
