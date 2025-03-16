@@ -11,7 +11,7 @@ image:
   caption: "Poster"
 backlinks: false
 
-button:
+Links:
   text: Poster
   url: uploads/Physics_Symposium_2025.pdf
 ---
