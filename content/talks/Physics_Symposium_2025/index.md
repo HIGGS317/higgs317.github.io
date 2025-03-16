@@ -7,7 +7,8 @@ math: false
 tags:
   - Poster
 image:
-  caption: "Embed rich media such as videos and LaTeX math"
+  placement: 1
+  caption: "Poster"
 ---
 
 This is the poster presentation given at the inhouse Physics Department Symposium-2025 at IISER Bhopal.
