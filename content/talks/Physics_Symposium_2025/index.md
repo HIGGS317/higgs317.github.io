@@ -6,11 +6,12 @@ type: docs
 math: false
 tags:
   - Poster
-# image:
-#   caption: 'Embed rich media such as videos and LaTeX math'
+image:
+  caption: "Embed rich media such as videos and LaTeX math"
 ---
 
-Poster = [src = ./20108_Symposium_Poster.pdf]
+This is the poster presentation given at the inhouse Physics Department Symposium-2025 at IISER Bhopal.
+Poster = <"poster">
 
 <!--[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.-->
 <!---->
