@@ -11,6 +11,7 @@ image:
   caption: "Poster"
 backlinks: false
 
+url: ""
 url_pdf: "Physics_Symposium_2025.pdf"
 ---
 
