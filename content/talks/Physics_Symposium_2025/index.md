@@ -9,10 +9,10 @@ tags:
 image:
   placement: 1
   caption: "Poster"
+backlinks: false
 ---
 
 This is the poster presentation given at the inhouse Physics Department Symposium-2025 at IISER Bhopal.
-Poster = <"poster">
 
 <!--[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.-->
 <!---->
