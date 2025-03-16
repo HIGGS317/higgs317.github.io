@@ -10,6 +10,10 @@ image:
   placement: 1
   caption: "Poster"
 backlinks: false
+
+button:
+  text: Poster
+  url: uploads/Physics_Symposium_2025.pdf
 ---
 
 This is the poster presentation given at the inhouse Physics Department Symposium-2025 at IISER Bhopal.
@@ -40,5 +44,3 @@ This is the poster presentation given at the inhouse Physics Department Symposiu
 <!---->
 <!--    {{</* video src="my_video.mp4" controls="yes" */>}}-->
 <!---->
-
-## Podcast
