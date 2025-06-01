@@ -8,6 +8,17 @@ tags:
   - WENOZ
   - MP5
   - Computational Astrophysics
+
+gallery_item:
+  - album: videos
+    image: animation.mp4
+    caption: SOD Gas Tube
+  - album: videos
+    image: double_Mach_animation.mp4
+    caption: Double_Mach_animation
+  - album: videos
+    image: rayleigh_Taylor_Multi.mp4
+    caption: Rayliegh-Taylor with Multi Mode
 ---
 
 <!--more-->
@@ -17,7 +28,7 @@ problems like Sod Shock Tube, Shu-Oscher Shock Tube, Double Mach Reflection and 
 
 Some of the animations and experiments are shown below:
 
-|                                                        |                                                        |
-| ------------------------------------------------------ | ------------------------------------------------------ |
-| <video src="animation.mp4" controls="yes">             | <video src="Double_Mach_animation.mp4" controls="yes"> |
-| <video src="Rayliegh_Taylor_Multi.mp4" controls="yes"> |
+|                                                                                  |                                                                                  |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| <video src="animation.mp4" controls="yes" width="250" height="250">              | <video src="double_Mach_animation.mp4" controls="yes" width="250" height="250" > |
+| <video src="rayleigh_Taylor_Multi.mp4" controls="yes" width="250" height="250" > |
