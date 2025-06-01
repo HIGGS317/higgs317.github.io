@@ -9,9 +9,7 @@ tags:
   - MP5
   - Computational Astrophysics
 
-
-{{< video src="animation" controls="yes" >}}
-
+video_src: "animation.mp4"
 ---
 
 <!--more-->
