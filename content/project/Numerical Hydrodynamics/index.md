@@ -17,6 +17,6 @@ problems like Sod Shock Tube, Shu-Oscher Shock Tube, Double Mach Reflection and 
 
 Some of the animations and experiments are shown below:
 
-|                                             |                                                          |                                                          |
-| ------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| <video src="animation.mp4" controls="yes" > | <video src="double_Mach_animation.mp4" controls="yes"  > | <video src="rayleigh_Taylor_Multi.mp4" controls="yes"  > |
+|                                                                       |                                                                                   |                                                                                   |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <video src="animation.mp4"  width="250" height="250" controls="yes" > | <video src="double_Mach_animation.mp4" width="250" height="250" controls="yes"  > | <video src="rayleigh_Taylor_Multi.mp4" width="250" height="250" controls="yes"  > |
