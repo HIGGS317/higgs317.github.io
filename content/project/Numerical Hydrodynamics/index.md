@@ -8,6 +8,10 @@ tags:
   - WENOZ
   - MP5
   - Computational Astrophysics
+
+
+{{< video src="animation" controls="yes" >}}
+
 ---
 
 <!--more-->
