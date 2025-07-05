@@ -47,7 +47,10 @@ profiles:
     url:
       https://scholar.google.com/citations?user=gTIRRPUAAAAJ&hl=en&oi=ao
       #  - icon: academicons/orcid
-      # url: https://orcid.org/
+      #url: https://orcid.org/
+  - icon: academicons/orcid
+    url:
+        https://orcid.org/0009-0008-1113-0966
 
 interests:
   - Theoretical High Energy Astrophysics
