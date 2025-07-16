@@ -31,7 +31,7 @@ tags:
   - SDSS
   - Computer Vision
 
-featured: false
+featured: True
 
 links:
   - name: Custom Link
