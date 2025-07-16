@@ -52,7 +52,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: True
     design:
       view: article-grid
       columns: 2
