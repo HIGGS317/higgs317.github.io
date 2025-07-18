@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: "6rem"
+  spacing: "10rem"
 
 # Page sections
 sections:
@@ -18,6 +18,6 @@ sections:
           - project
     design:
       view: showcase
-      fill_image: True
-      columns: 3
+      fill_image: False
+      columns: 2
 ---
