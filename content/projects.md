@@ -19,5 +19,6 @@ sections:
     design:
       view: showcase
       fill_image: False
+      flip_alt_rows: true
       columns: 2
 ---
