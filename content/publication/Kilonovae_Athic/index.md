@@ -25,4 +25,6 @@ featured: True
 links:
   - name: Custom Link
     url: https://www.sciencedirect.com/science/article/pii/S3050480525000949
+
+share: false
 ---

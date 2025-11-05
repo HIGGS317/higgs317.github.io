@@ -2,6 +2,7 @@
 title: Publications
 layout: ads-widget
 cms_exclude: true
+share: false
 
 # View.
 # view: citation

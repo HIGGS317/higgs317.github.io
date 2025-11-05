@@ -1,6 +1,7 @@
 ---
 title: Exploration of Higher Order Numerical Schemes for Hydrodynamics
 date: 2024-07-01
+share: false
 external_link:
 tags:
   - PLUTO
