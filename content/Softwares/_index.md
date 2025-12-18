@@ -1,7 +1,10 @@
 ---
 title: Software Projects
 summary: Softwares Contributed
-type: project
+type: page
+image:
+  filename: software.png # in assets/media/ or page bundle
+  focal_point: Smart
 
 sections:
   - block: collection
