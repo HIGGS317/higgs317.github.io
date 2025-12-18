@@ -13,9 +13,9 @@ main:
   - name: Talks and Presentations
     url: talks/
     weight: 35
-  - name: Software Projects
-    url: Softwares/
-    weight: 45
+  # - name: Software Projects
+  #   url: Softwares/
+  #   weight: 45
   # - name: Experience
   #   url: experience/
   #   weight: 20
