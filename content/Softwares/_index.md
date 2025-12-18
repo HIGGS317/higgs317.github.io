@@ -1,11 +1,11 @@
 ---
 title: Software Projects
 summary: Softwares Contributed
-type: landing
+type: project
 
 sections:
   - block: collection
-    id: talks
+    id: Software
     content:
       title: Software Projects
       filters:
