@@ -1,20 +1,10 @@
 ---
 title: Software Projects
-summary: Softwares Contributed
-type: page
-image:
-  filename: software.png # in assets/media/ or page bundle
-  focal_point: Smart
+#cms_exclude: true
 
-sections:
-  - block: collection
-    id: Software
-    content:
-      title: Software Projects
-      filters:
-        folders:
-          - Softwares
-    design:
-      view: article-grid
-      columns: 1
+# Optional header image (relative to `static/media/` folder).
+
+banner:
+  caption: ""
+  image: ""
 ---
