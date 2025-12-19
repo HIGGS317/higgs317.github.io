@@ -1,7 +1,6 @@
 ---
 title: Softwares
-type: softwares
-url: /softwares/
+type: landing
 
 
 sections:
