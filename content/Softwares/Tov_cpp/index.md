@@ -11,4 +11,6 @@ tags:
   - C++
 ---
 
+TOV equation solver for tabulated EOS. Given EOS calculates the mass, radius and love number.
+
 <!--more-->
