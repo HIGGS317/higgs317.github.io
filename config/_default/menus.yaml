@@ -12,16 +12,16 @@ main:
     weight: 40
   - name: Talks and Presentations
     url: talks/
-    weight: 35
+    weight: 30
   - name: Software Projects
-    url: Softwares/
+    url: softwares/
     weight: 45
   # - name: Experience
   #   url: experience/
   #   weight: 20
   - name: Research Projects
     url: project/
-    weight: 30
+    weight: 20
   # - name: Teaching
   #   url: teaching/
   #   weight: 40
