@@ -14,7 +14,8 @@ sections:
         folders:
           - publication
     design:
-      view: showcase
+      view: article-grid
+      columns: 2
 
 ---
 

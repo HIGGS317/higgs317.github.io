@@ -12,5 +12,6 @@ sections:
         folders:
           - softwares
     design:
-      view: showcase
+      view: article-grid
+      columns: 2
 ---
