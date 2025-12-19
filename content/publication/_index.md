@@ -4,11 +4,17 @@ layout: ads-widget
 cms_exclude: true
 share: false
 
-View: card
-# view: citation
+sections:
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+    design:
+      view: showcase
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ""
-  image: ""
+---
+
 ---
