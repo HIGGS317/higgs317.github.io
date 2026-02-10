@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["conference-paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "ICLR-2024"
 publication_short: ""
 
 abstract: This paper introduces a novel sector-based methodology for star-galaxy classification, leveraging the latest Sloan Digital Sky Survey data (SDSS-DR18). By strategically segmenting the sky into sectors aligned with SDSS observational patterns and employing a dedicated convolutional neural network (CNN), we achieve state-of-the-art performance for star galaxy classification. Our preliminary results demonstrate a promising pathway for efficient and precise astronomical analysis, especially in real-time observational settings.
@@ -35,13 +35,13 @@ featured: True
 
 links:
   - name: Custom Link
-    url: https://openreview.net/forum?id=HzEefCle2c
+    url: https://higgs317.github.io/Star-galaxy-classification-ICLR-2024/
 url_pdf: "https://openreview.net/pdf?id=HzEefCle2c"
 url_code: ""
 url_dataset: ""
 url_poster: ""
 name: Project Website
-url_project: https://higgs317.github.io/Star-galaxy-classification-ICLR-2024/
+url_project:
 url_slides: ""
 url_source: ""
 url_video: ""
