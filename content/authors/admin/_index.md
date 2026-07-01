@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: "mailto:divyansh20@iiserb.ac.in"
+    url: "mailto:tripathidivyansh2003@gmail.com"
     label:
       E-mail Me
       #- icon: brands/x
