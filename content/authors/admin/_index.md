@@ -49,8 +49,7 @@ profiles:
       #  - icon: academicons/orcid
       #url: https://orcid.org/
   - icon: academicons/orcid
-    url:
-        https://orcid.org/0009-0008-1113-0966
+    url: https://orcid.org/0009-0008-1113-0966
 
 interests:
   - Theoretical High Energy Astrophysics
@@ -195,4 +194,4 @@ I am interested in the study of Compact Object formation, evolution and accretio
 Some part of also wanders in the realm of ML-DL and there I am interested in techniques of the domain that can be useful for astrophysics.
 
 Currently searching for graduate positions.
-Please reach out at ~ divyansh20[at]iiserb[dot]ac[dot]in~ if you have any research positions, or you feel I can contribute to your projects.
+Please reach out if you have any research positions, or you feel I can contribute to your projects.
