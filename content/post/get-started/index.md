@@ -1,7 +1,8 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+title: Transient and Persistent Accretion in Low Mass X-ray Binaries
+summary: A overview of my publication titled 
 date: 2023-10-27
+draft:trur
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
