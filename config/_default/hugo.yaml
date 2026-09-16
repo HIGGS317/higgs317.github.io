@@ -23,6 +23,8 @@ removePathAccents: true
 
 build:
   writeStats: true
+  # Include posts whose publish date is in the future so scheduled content can be published automatically.
+  future: true
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
