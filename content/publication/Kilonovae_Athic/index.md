@@ -8,7 +8,7 @@ authors:
   - Shamim Haque
 
 date: "2025-07-15"
-doi: "https://doi.org/10.1016/j.jspc.2025.100114"
+
 
 publication_types: ["conference-paper"]
 
@@ -25,6 +25,8 @@ featured: True
 links:
   - name: Custom Link
     url: https://www.sciencedirect.com/science/article/pii/S3050480525000949
+
+doi: "https://doi.org/10.1016/j.jspc.2025.100114"
 
 share: false
 ---

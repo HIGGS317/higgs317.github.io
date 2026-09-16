@@ -36,15 +36,16 @@ featured: True
 links:
   - name: Custom Link
     url: https://higgs317.github.io/Star-galaxy-classification-ICLR-2024/
-url_pdf: "https://openreview.net/pdf?id=HzEefCle2c"
-url_code: ""
-url_dataset: ""
-url_poster: ""
-name: Project Website
-url_project:
-url_slides: ""
-url_source: ""
-url_video: ""
+  - name: PDF
+    url: "https://openreview.net/pdf?id=HzEefCle2c"
+# url_code: ""
+# url_dataset: ""
+# url_poster: ""
+  
+# url_project:
+# url_slides: ""
+# url_source: ""
+# url_video: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -71,8 +72,5 @@ slides: ""
 
 <!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
