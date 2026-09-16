@@ -2,7 +2,7 @@
 title: Transient and Persistent Accretion in Low Mass X-ray Binaries
 summary: A overview of my publication titled 
 date: 2023-10-27
-draft: true
+
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -17,6 +17,8 @@ tags:
   - Academic
   - Hugo Blox
   - Markdown
+  
+draft: true
 ---
 
 Welcome 👋
