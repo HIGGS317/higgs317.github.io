@@ -12,6 +12,7 @@ appearance:
 
 # SEO
 marketing:
+  google_analytics: 'G-2EK9NM0D2P'
   seo:
     site_type: Person
     local_business_type: ""
@@ -19,12 +20,11 @@ marketing:
     description: "My Personal Website"
     twitter: ""
   analytics:
-    google_analytics: "G-2EK9NM0D2P"
+    google_analytics: ""
     baidu_tongji: ""
     plausible: ""
     fathom: ""
     pirsch: ""
-    
   verification:
     google: ""
     baidu: ""
