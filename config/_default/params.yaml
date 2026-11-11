@@ -19,7 +19,7 @@ marketing:
     description: "My Personal Website"
     twitter: ""
   analytics:
-    google_analytics: "G-2EK9NM0D2P"
+    google_analytics: ""
     baidu_tongji: ""
     plausible: ""
     fathom: ""
@@ -27,6 +27,10 @@ marketing:
   verification:
     google: ""
     baidu: ""
+# Services
+services:
+  google_analytics:
+    id: G-2EK9NM0D2P
 
 # Site header
 header:
