@@ -32,7 +32,7 @@ draft: False
   </a>
 </p>
 
-# Introduction
+## Introduction
 
 Neutron stars are one of the most exciting objects in the universe. They mark the end state of stellar evolution of massive stars along with their much heavier cousins, black holes.
 If we put these neutron stars along with another main-sequence companion, generally less massive than the neutron stars in a binary system, we get a neutron star low mass X-ray binary systems (NS-LMXBs).
@@ -47,7 +47,7 @@ During observation, we find two types of these systems, one which are emitting X
   <caption>Video showing matter accretion from companion star to neutron star in a binary system. Credit: [Google Gemini](https://gemini.google.com/)</caption>
 </video>
 
-# Problem Statement
+## Problem Statement
 
 The above description of Transient and persistent populations arises a natural question. **What factors influence the birth of these two populations?**. In other words, why do some systems accrete persistently while others accrete transiently?
 Along with this we broadly want to understand,
@@ -57,7 +57,7 @@ Along with this we broadly want to understand,
 - Can a system change from transient to persistent and back again?
 - How do the initial orbital period and companion-star mass influence its eventual behaviour?
 
-# Current Understanding
+## Current Understanding
 
 On why do accretion disks in LMXBs show this episodic behaviour, there is a well known model called (<span style="color:red;">Jargon Alert </span>⚠️) **Disk Instability Model (DIM)**. According to this model, the accretion disk can be in two states, one which is hot and ionized and the other which is cold and neutral. The transition between these two states is governed by the mass transfer rate from the companion star. If the mass transfer rate is high enough, the disk remains in hot state and accretes persistently. If the mass transfer rate is low, the disk becomes unstable and shows episodic behaviour. But the boundary between what should be called high-enough accretion rate is not clear and hence there are many benchmarks for the accretion rate given by previous works above which accretion can be classified as persistent and below which it can be classified as transient. The benchmark rate is called as critical rate and is denoted by $\dot{M}_{\rm crit}$. The critical rate depends on the depends on the physical parameter of the binary system like orbital period ($P_{\rm orb}$), Neutron star mass ($M_1$) and companion mass ($M_2$).
 
@@ -70,7 +70,7 @@ $$
 \end{align}
 $$
 
-# Methodology
+## Methodology
 
 Armed with the great work of our predecessors, and the power of great simulation codes, we are ready to throw some light on the problem. We started to simulate the LMXB system using stellar evolution code named [**MESA**](https://mesastar.org). (*Do check their website, it is a great resource for stellar evolution simulation*). To cover most of the physical parameters space of companion stars, we varied the initial parameters of the LMXB systems. We varied the initial companion mass and orbital period of the system. For each of these systems we calculated the mass transfer rate and saw how it varies as companion star goes through different stages of its evolution. This helped us track the at which stage of life cycles these systems are likely to be persistent or transient.
 
@@ -88,7 +88,7 @@ Next we compared our accretion rate curves with the observed population of LMXBs
 ![](image-1.png)
 *Comparison of observed(denoted by circles) and simulated LMXBs evolutionay path (denoted by curves) in the donor mass-orbital period space. Blue circles denote persistent systems and red and pink circles denotes transient systems*
 
-# What did we find?
+## What did we find?
 
 Now the most important question, *what did we find?* ~~Because to be honest without it all these simulations and calculations are just a huge exercise in running simulations~~.
 
@@ -104,7 +104,7 @@ Now the most important question, *what did we find?* ~~Because to be honest with
 **With these findings I conclude our study. I hope you enjoyed reading this post and if you have any questions or suggestions to make this and future post better, please feel free to reach out to me on [divyanshtripathi151@gmail.com](mailto:divyanshtripathi151@gmail.com)**
 
 
-
+*AI Usage Declaration: This post was written by a human author, with the assistance of AI tools for grammar and style suggestions.*
 
 ---
 
