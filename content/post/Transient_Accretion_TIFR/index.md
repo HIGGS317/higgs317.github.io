@@ -101,10 +101,11 @@ Now the most important question, *what did we find?* ~~Because to be honest with
 4. We established that DIM model is good enough model but to explain the observation better we need to better models
 
 
-**With these findings I conclude our study. I hope you enjoyed reading this post and if you have any questions or suggestions to make this and future post better, please feel free to reach out to me on [divyanshtripathi151@gmail.com](mailto:divyanshtripathi151@gmail.com)**
+
+**With these findings I conclude this investigative story. I hope you enjoyed reading this post and if you have any questions, suggestions to make this and future post better, or topic for future posts which you want me to write on, please feel free to reach out to me on [divyanshtripathi151@gmail.com](mailto:divyanshtripathi151@gmail.com)**
 
 
-*AI Usage Declaration: This post was written by a human author, with the assistance of AI tools for grammar and style suggestions.*
+*AI Usage Declaration: This post was written by a human author, with the assistance of AI tools for grammar and style suggestions with due credit given if used for explainer video production.*
 
 ---
 
