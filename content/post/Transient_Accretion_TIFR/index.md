@@ -6,7 +6,7 @@ date: 2026-09-22
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Centre for Astrophysics and Supercomputing**](https://astronomy.swin.edu.au/cosmos/L/Low-mass+X-ray+Binaries)'
+  caption: 
 
 author:
   - Divyansh Tripathi
@@ -26,11 +26,11 @@ draft: False
 
 {{< toc is_open=true >}}
 
-<p>
+<!-- <p>
   <a href="https://iopscience.iop.org/article/10.3847/1538-4357/aeae36" target="_blank">
     <img src="image-2.png" alt="Cover image of the paper">
   </a>
-</p>
+</p> -->
 
 ## Introduction
 
@@ -42,10 +42,11 @@ As the companion star evolves, it expands and at some point (<span style="color:
 During observation, we find two types of these systems, one which are emitting X-rays at nearly constant rate for a long period of time (**Persistent**), the other which shows episodes high x-ray emission followed by long period of low or no emission (**Transient**). 
 
 
-<video>
+<!-- <video controls>
   <source src="video_showing_matter_accretion.mp4" type="video/mp4">
   <caption>Video showing matter accretion from companion star to neutron star in a binary system. Credit: [Google Gemini](https://gemini.google.com/)</caption>
 </video>
+*Video: Matter accretion in a binary system. Credit: [Google Gemini](https://gemini.google.com/)* -->
 
 ## Problem Statement
 
