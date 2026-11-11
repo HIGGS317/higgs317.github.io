@@ -24,7 +24,7 @@ draft: False
 - **Authors** Divyansh Tripathi, Sudip Bhattacharyya, Pulkit Ojha
 - **Status** Accepted For publication in Astrophysical Journal ([Open](https://iopscience.iop.org/article/10.3847/1538-4357/aeae36) Access)
 
-{{< toc mobile_only=true is_open=true >}}
+{{< toc is_open=true >}}
 
 <p>
   <a href="https://iopscience.iop.org/article/10.3847/1538-4357/aeae36" target="_blank">
@@ -101,8 +101,11 @@ Now the most important question, *what did we find?* ~~Because to be honest with
 4. We established that DIM model is good enough model but to explain the observation better we need to better models
 
 
+**With these findings I conclude our study. I hope you enjoyed reading this post and if you have any questions or suggestions to make this and future post better, please feel free to reach out to me on [divyanshtripathi151@gmail.com](mailto:divyanshtripathi151@gmail.com)**
 
-With these findings I conclude our study. I hope you enjoyed reading this post and if you have any questions or suggestions to make this and futute post better, please feel free to reach out to me on [divyanshtripathi151@gmail.com](mailto:divyanshtripathi151@gmail.com)
+
+
+
 ---
 
 <p style="font-size:200%; text-align:center;">
